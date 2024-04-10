@@ -22,6 +22,14 @@ const Navbar = () => {
     {
       name : "List",
       link : "/list-props-map"
+    },
+    {
+      name : "Register",
+      link : "/signup"
+    },
+    {
+      name : "PopUp",
+      link : "/popup"
     }
   ]
   
